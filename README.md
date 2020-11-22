@@ -77,4 +77,4 @@ No Graded Assignment or Quiz!
 
 
 
-# ~ REGARDS ....................
+## ~ REGARDS .................... (https://tsg405.github.io/)
